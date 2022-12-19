@@ -1,1 +1,2 @@
 hi my new sample
+todays input
